@@ -251,7 +251,7 @@ MySQL secara default menyertakan database ```world``` yang dapat digunakan oleh 
 
 
 
-<hr>
+
 
 
 #
