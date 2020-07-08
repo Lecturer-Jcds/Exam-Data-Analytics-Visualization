@@ -219,11 +219,11 @@ MySQL secara default menyertakan database ```world``` yang dapat digunakan oleh 
 
 ### **Soal 2 - Exploratory Data Analysis (EDA) - 70 Points**
     
-Berikut ini tersedia __4 Dataset__ Silakan __Pilih salah satu__ , Kemudian lakukan __Exploratory Data Analysis__ terhadap Dataset yang anda pilih.
+Berikut ini tersedia __6 Dataset__ Silakan __Pilih salah satu__ , Kemudian lakukan __Exploratory Data Analysis__ terhadap Dataset yang anda pilih.
 
 Dataset|Unduh csv|Info|Keterangan
 -----|-----|-----|-----
-Employee |[Employee.csv](./employee.csv)|[Info_Emp](./emp.PNG)|Ini merupakan data karyawan keluar pada suatu perusahaan
+Employee |[Employee.csv](./employee.csv)|[Info_Emp](./emp.PNG) , Attrition = keluar|Ini merupakan data karyawan keluar pada suatu perusahaan
 WHO |[WHO.csv](./WHO.csv)|[Info_WHO](./life.PNG)|Ini merupakan data Angka Harapan hidup negara berdasarkan data WHO
 Resignation |[resignation.csv](./resignation.csv)||Ini merupakan data karyawan keluar perusahaan berbeda dg lebih banyak feature
 E-Commerce |[ecommerce.csv](./ecommerce.csv)||Ini merupakan data penjualan dari suatu E-commerce
