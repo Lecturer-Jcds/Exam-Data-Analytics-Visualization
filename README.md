@@ -215,7 +215,38 @@ MySQL secara default menyertakan database ```world``` yang dapat digunakan oleh 
     <hr>
 
 
+#
 
+### **Soal 2 - Exploratory Data Analysis (EDA) - 70 Points**
+    
+Berikut ini tersedia __4 Dataset__ Silakan __Pilih salah satu__ , Kemudian lakukan __Exploratory Data Analysis__ terhadap Dataset yang anda pilih.
+
+Dataset|Unduh csv|Info|Keterangan
+-----|-----|-----|-----
+Employee |[Employee.csv](./employee.csv)|[Info_Emp](./emp.PNG)|Ini merupakan data karyawan keluar pada suatu perusahaan
+WHO |[WHO.csv](./WHO.csv)|[Info_WHO](./life.PNG)|Ini merupakan data Angka Harapan hidup negara berdasarkan data WHO
+Resignation |[resignation.csv](./resignation.csv)||Ini merupakan data karyawan keluar perusahaan berbeda dg lebih banyak feature
+E-Commerce |[ecommerce.csv](./ecommerce.csv)||Ini merupakan data penjualan dari suatu E-commerce
+Seluler | [seluler.csv](./seluler.csv) | Churn = pindah | Ini merupakan data pelanggan operator seluler yg pindah provider dan tidak
+Bank | [bank.csv](./bank.csv) | 1 = yes, 0 = no | Ini merupakan data nasabah bank yg pindah bank dan tidak
+
+__Detail Poin Penilaian Sebagai Berikut (Sertakan Alasan ataupun Tujuan disetiap langkah yang anda lakukan, jangan hanya coding tanpa alasan atau penjelasan) :__
+
+
+- Definisikan Masalah yang akan anda temukan yang berkaitan dengan dataset yang anda pilih - __5 point__
+- Definisikan Tujuan EDA anda - __5 point__
+- Analisa Deskriptif & Handling Missing Value / Outliers - __5 point__
+- Analisis Data - __20 point__
+- Visualisasi Data - __20 Point__
+- Temukan Insight data berdasarkan Analisis dan Visualisasi yang telah anda lakukan - __5 point__
+- Kesimpulan dan Saran yang dapat anda berikan berdasarkan hasil EDA anda - __5 point__
+- Masukkan Visualisasi Anda ke dalam Dashboard - __5 Point__
+
+
+    ✅ _Commit dan Push jawaban anda ke Repository Github anda, beri nama repo anda __Exploratory-Data-Analysis-(Dataset yang anda pilih)__ kemudian kirim __Link repo github__ anda  via email ke _khumaeni@purwadhika.com dan operational_bdg@purwadhika.com_!_
+    
+    
+    <hr>
 
 
 
