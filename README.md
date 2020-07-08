@@ -226,7 +226,7 @@ Dataset|Unduh csv|Info|Keterangan
 Employee |[Employee.csv](./employee.csv)|[Info_Emp](./emp.PNG) , Attrition = keluar|Ini merupakan data karyawan keluar pada suatu perusahaan
 WHO |[WHO.csv](./WHO.csv)|[Info_WHO](./life.PNG)|Ini merupakan data Angka Harapan hidup negara berdasarkan data WHO
 Resignation |[resignation.csv](./resignation.csv)||Ini merupakan data karyawan keluar perusahaan berbeda dg lebih banyak feature
-E-Commerce |[ecommerce.csv](./ecommerce.csv)||Ini merupakan data penjualan dari suatu E-commerce
+E-Commerce |[ecommerce.csv](./ecommerce.csv)|Original price = harga sebelum diskon|Ini merupakan data penjualan dari suatu E-commerce
 Seluler | [seluler.csv](./seluler.csv) | Churn = pindah | Ini merupakan data pelanggan operator seluler yg pindah provider dan tidak
 Bank | [bank.csv](./bank.csv) | 1 = yes, 0 = no | Ini merupakan data nasabah bank yg pindah bank dan tidak
 
