@@ -210,7 +210,7 @@ MySQL secara default menyertakan database ```world``` yang dapat digunakan oleh 
     +--------------------+-----------------+------------+-------------------+------------------+
     ```
 
-    ✅ _Lampirkan jawaban berupa daftar __query SQL & Screenshoot hasil query__ dalam bentuk file __.docx__ dan kirimkan via email ke _khumaeni@purwadhika.com dan operational_bdg@purwadhika.com_!_
+    ✅ _Lampirkan jawaban berupa daftar __query SQL & Screenshoot hasil query__ dalam bentuk file __.docx atau .pdf__ dan kirimkan via email ke _khumaeni@purwadhika.com dan operational@purwadhika.com_!_
     
     <hr>
 
