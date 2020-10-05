@@ -242,13 +242,16 @@ __Detail Poin Penilaian Sebagai Berikut (Sertakan Alasan ataupun Tujuan disetiap
 - Temukan Insight data berdasarkan Analisis dan Visualisasi yang telah anda lakukan - __5 point__
 - Kesimpulan dan Saran yang dapat anda berikan berdasarkan hasil EDA anda - __5 point__
 
-**untuk mendukung setiap hipotesa anda, Silakan Lakukan Riset dari bermacam sumber dari luar terkait business problem yang anda pilih **
+<hr>
 
 
-    ✅  Commit dan Push jawaban anda ke Repository Github anda, beri nama repo anda __Exploratory-Data-Analysis-(Dataset yang anda pilih)__ kemudian kirim __Link repo github__ anda  via email ke _khumaeni@purwadhika.com_ untuk student BSD kirim email juga ke _operational@purwadhika.com_ dan untuk student jakarta kirim juga email ke _operational_jkt@purwadhika.com_
+__untuk mendukung setiap hipotesa anda, Silakan Lakukan Riset dari bermacam sumber dari luar terkait business problem yang anda pilih__
+
+
+
+✅ Commit dan Push jawaban anda ke Repository Github anda, beri nama repo anda __Exploratory-Data-Analysis-(Dataset yang anda pilih)__ kemudian kirim __Link repo github__ anda  via email ke _khumaeni@purwadhika.com_ untuk student BSD kirim email juga ke _operational@purwadhika.com_ dan untuk student jakarta kirim juga email ke _operational_jkt@purwadhika.com_
     
-    
-    <hr>
+<hr>
 
 
 
