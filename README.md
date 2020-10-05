@@ -216,7 +216,39 @@ MySQL secara default menyertakan database ```world``` yang dapat digunakan oleh 
 
 
 
+#
 
+### **Soal 2 - Exploratory Data Analysis (EDA) - 70 Points**
+    
+Berikut ini tersedia __6 Dataset__ Silakan __Pilih salah satu__ , Kemudian lakukan __Exploratory Data Analysis__ terhadap Dataset yang anda pilih.
+
+Dataset|Unduh csv|Info|Keterangan
+-----|-----|-----|-----
+Employee |[Employee.csv](./employee.csv)|[Info_Emp](./emp.PNG) , Attrition = keluar|Ini merupakan data karyawan keluar pada suatu perusahaan
+WHO |[WHO.csv](./WHO.csv)|[Info_WHO](./life.PNG)|Ini merupakan data Angka Harapan hidup negara berdasarkan data WHO
+Resignation |[resignation.csv](./resignation.csv)||Ini merupakan data karyawan keluar perusahaan berbeda dg lebih banyak feature
+E-Commerce |[ecommerce.csv](./ecommerce.csv)|Original price = harga sebelum diskon|Ini merupakan data penjualan dari suatu E-commerce
+Seluler | [seluler.csv](./seluler.csv) | Churn = pindah | Ini merupakan data pelanggan operator seluler yg pindah provider dan tidak
+Bank | [bank.csv](./bank.csv) | 1 = yes, 0 = no | Ini merupakan data nasabah bank yg pindah bank dan tidak
+
+__Detail Poin Penilaian Sebagai Berikut (Sertakan Alasan ataupun Tujuan disetiap langkah yang anda lakukan, jangan hanya coding tanpa alasan atau penjelasan) :__
+
+
+- Definisikan Masalah terkait bisnis yang ingin anda selesaikan (Define Business Problem) - __5 point__
+- Definisikan Tujuan EDA anda (Define Goals) - __5 point__
+- Analisa Deskriptif & Handling Missing Value serta Outliers - __10 point__
+- Analisis Data (Univariate dan Multivariate, Gunakan `Crosstab` atau `Pivot_Table` atau `Group by` ) - __20 point__
+- Visualisasi Data (Univariate dan Multivariate, Gunakan plot sesuai dengan fungsi dan tujuannya) - __20 Point__
+- Temukan Insight data berdasarkan Analisis dan Visualisasi yang telah anda lakukan - __5 point__
+- Kesimpulan dan Saran yang dapat anda berikan berdasarkan hasil EDA anda - __5 point__
+
+**untuk mendukung setiap hipotesa anda, Silakan Lakukan Riset dari bermacam sumber dari luar terkait business problem yang anda pilih **
+
+
+    ✅  Commit dan Push jawaban anda ke Repository Github anda, beri nama repo anda __Exploratory-Data-Analysis-(Dataset yang anda pilih)__ kemudian kirim __Link repo github__ anda  via email ke _khumaeni@purwadhika.com_ untuk student BSD kirim email juga ke _operational@purwadhika.com_ dan untuk student jakarta kirim juga email ke _operational_jkt@purwadhika.com_
+    
+    
+    <hr>
 
 
 
