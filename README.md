@@ -172,7 +172,7 @@ MySQL secara default menyertakan database ```world``` yang dapat digunakan oleh 
     - <img src='https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png' alt='lintang' style='height:13px; width:18px'/> Germany 
     - <img src='https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/35px-Flag_of_India.svg.png' alt='lintang' style='height:13px; width:18px'/> India 
     - <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/35px-Flag_of_Indonesia.svg.png' alt='lintang' style='height:13px; width:18px'/> Indonesia 
-    - <img src='https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png' alt='lintang' style='height:13px; width:18px'/> Italia 
+    - <img src='https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png' alt='lintang' style='height:13px; width:18px'/> Italy 
     - <img src='https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/35px-Flag_of_Japan.svg.png' alt='lintang' style='height:13px; width:18px'/> Japan 
     - <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/35px-Flag_of_Mexico.svg.png' alt='lintang' style='height:13px; width:18px'/> Mexico 
     - <img src='https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/35px-Flag_of_Russia.svg.png' alt='lintang' style='height:13px; width:18px'/> Russian Federation 
@@ -197,6 +197,7 @@ MySQL secara default menyertakan database ```world``` yang dapat digunakan oleh 
     | France             |        59225700 | 1424285.00 | Paris             |          2125246 |
     | Germany            |        82164700 | 2133367.00 | Berlin            |          3386667 |
     | India              |      1013662000 |  447114.00 | New Delhi         |           301297 |
+    | Italy              |        57680000 | 1161755.00 | Roma              |          2643581 |
     | Indonesia          |       212107000 |   84982.00 | Jakarta           |          9604900 |
     | Japan              |       126714000 | 3787042.00 | Tokyo             |          7980230 |
     | Mexico             |        98881000 |  414972.00 | Ciudad de MÃ©xico |          8591309 |
@@ -231,7 +232,7 @@ E-Commerce |[ecommerce.csv](./ecommerce.csv)|Original price = harga sebelum disk
 Seluler | [seluler.csv](./seluler.csv) | Churn = pindah | Ini merupakan data pelanggan operator seluler yg pindah provider dan tidak
 Bank | [bank.csv](./bank.csv) | 1 = yes, 0 = no | Ini merupakan data nasabah bank yg pindah bank dan tidak
 
-__Detail Poin Penilaian Sebagai Berikut (Sertakan Alasan ataupun Tujuan disetiap langkah yang anda lakukan, jangan hanya coding tanpa alasan atau penjelasan) :__
+__Detail Poin Penilaian Sebagai Berikut (Sertakan Alasan ataupun Tujuan disetiap langkah yang anda lakukan, jangan hanya coding tanpa alasan atau penjelasan) Fokus pada *Problem Solving*:__
 
 
 - Definisikan Masalah terkait bisnis yang ingin anda selesaikan (Define Business Problem) - __5 point__
