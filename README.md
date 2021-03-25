@@ -245,8 +245,10 @@ __Sertakan Alasan ataupun Tujuan disetiap langkah yang anda lakukan, jangan hany
 <hr>
 
 
-__untuk mendukung setiap hipotesa anda, Silakan Lakukan Riset dari bermacam sumber dari luar terkait business problem yang anda pilih__
-** Note : Alternatif Untuk download dataset bisa dengan membuka file sesuai link, kemudian klik **raw** dan copas ke text editor dan save as **.csv**
+__Untuk mendukung setiap hipotesa anda, Silakan Lakukan Riset dari bermacam sumber dari luar terkait business problem yang anda pilih__
+
+
+** Note : Alternatif Untuk download dataset bisa dengan membuka file sesuai link, klik **raw** dan copas ke text editor kemudian save as **.csv**
 
 
 ✅ Commit dan Push jawaban anda ke Repository Github anda, beri nama repo anda __Exploratory-Data-Analysis-(Dataset yang anda pilih)__ kemudian kirim __Link repo github__ anda  via email ke _khumaeni@purwadhika.com_ dan ke _operational_jkt@purwadhika.com_ Subject Email : **Exam_Modul2_JCDS12_Nama**
