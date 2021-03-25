@@ -211,7 +211,7 @@ MySQL secara default menyertakan database ```world``` yang dapat digunakan oleh 
     +--------------------+-----------------+------------+-------------------+------------------+
     ```
 
-    ✅ Lampirkan jawaban berupa daftar __query SQL & Screenshoot hasil query__ dalam bentuk file __.docx atau .pdf__ dan kirimkan via email ke _khumaeni@purwadhika.com_ dak ke _operational_jkt@purwadhika.com_ Subject Email : **Exam_Modul2_JCDS12_Nama**
+    ✅ Lampirkan jawaban berupa daftar __query SQL & Screenshoot hasil query__ dalam bentuk file __.docx atau .pdf__ dan kirimkan via email ke _khumaeni@purwadhika.com_ dan ke _operational_jkt@purwadhika.com_ Subject Email : **Exam_Modul2_JCDS12_Nama**
     
     <hr>
 
@@ -226,7 +226,7 @@ Berikut ini tersedia __5 Dataset__ Silakan __Pilih salah satu__ , Kemudian lakuk
 Dataset|Unduh csv|Info|Keterangan
 -----|-----|-----|-----
 Employee |[Employee.csv](./employee.csv)|[Info_Emp](./emp.PNG) , Attrition = keluar|Ini merupakan data karyawan keluar pada suatu perusahaan
-Sephora |[Sephora.csv](./sephora.csv)|[Info_WHO](./Sephora.PNG)|Ini adalah data dari ecommerce Sephora
+Sephora |[Sephora.csv](./sephora.csv)|[Info_Sephora](./Sephora.PNG)|Ini adalah data dari ecommerce Sephora
 Supermarket |[Supermarket.csv](./Supermarket.csv)|[Info_Supermarket](./Supermarket.PNG)|Ini merupakan data penjualan dari suatu Supermarket
 Seluler | [seluler.csv](./seluler.csv) | Churn = pindah | Ini merupakan data pelanggan operator seluler yg pindah provider dan tidak
 Bank | [bank.csv](./bank.csv) | 1 = yes, 0 = no | Ini merupakan data nasabah bank yg pindah bank dan tidak
@@ -246,7 +246,7 @@ __Sertakan Alasan ataupun Tujuan disetiap langkah yang anda lakukan, jangan hany
 
 
 __untuk mendukung setiap hipotesa anda, Silakan Lakukan Riset dari bermacam sumber dari luar terkait business problem yang anda pilih__
-
+** Note : Alternatif Untuk download dataset bisa dengan membuka file sesuai link, kemudian klik **raw** dan copas ke text editor dan save as **.csv**
 
 
 ✅ Commit dan Push jawaban anda ke Repository Github anda, beri nama repo anda __Exploratory-Data-Analysis-(Dataset yang anda pilih)__ kemudian kirim __Link repo github__ anda  via email ke _khumaeni@purwadhika.com_ dan ke _operational_jkt@purwadhika.com_ Subject Email : **Exam_Modul2_JCDS12_Nama**
