@@ -197,8 +197,8 @@ MySQL secara default menyertakan database ```world``` yang dapat digunakan oleh 
     | France             |        59225700 | 1424285.00 | Paris             |          2125246 |
     | Germany            |        82164700 | 2133367.00 | Berlin            |          3386667 |
     | India              |      1013662000 |  447114.00 | New Delhi         |           301297 |
-    | Italy              |        57680000 | 1161755.00 | Roma              |          2643581 |
     | Indonesia          |       212107000 |   84982.00 | Jakarta           |          9604900 |
+    | Italy              |        57680000 | 1161755.00 | Roma              |          2643581 |
     | Japan              |       126714000 | 3787042.00 | Tokyo             |          7980230 |
     | Mexico             |        98881000 |  414972.00 | Ciudad de MÃ©xico |          8591309 |
     | Russian Federation |       146934000 |  276608.00 | Moscow            |          8389200 |
@@ -211,7 +211,7 @@ MySQL secara default menyertakan database ```world``` yang dapat digunakan oleh 
     +--------------------+-----------------+------------+-------------------+------------------+
     ```
 
-    ✅ _Lampirkan jawaban berupa daftar __query SQL & Screenshoot hasil query__ dalam bentuk file __.docx atau .pdf__ dan kirimkan via email ke _khumaeni@purwadhika.com untuk student BSD kirim email juga ke operational@purwadhika.com dan untuk student jakarta kirim juga email ke operational_jkt@purwadhika.com__
+    ✅ Lampirkan jawaban berupa daftar __query SQL & Screenshoot hasil query__ dalam bentuk file __.docx atau .pdf__ dan kirimkan via email ke _khumaeni@purwadhika.com_ dak ke _operational_jkt@purwadhika.com_ Subject Email : **Exam_Modul2_JCDS12_Nama**
     
     <hr>
 
@@ -221,27 +221,26 @@ MySQL secara default menyertakan database ```world``` yang dapat digunakan oleh 
 
 ### **Soal 2 - Exploratory Data Analysis (EDA) - 70 Points**
     
-Berikut ini tersedia __6 Dataset__ Silakan __Pilih salah satu__ , Kemudian lakukan __Exploratory Data Analysis__ terhadap Dataset yang anda pilih.
+Berikut ini tersedia __5 Dataset__ Silakan __Pilih salah satu__ , Kemudian lakukan __Exploratory Data Analysis__ terhadap Dataset yang anda pilih.
 
 Dataset|Unduh csv|Info|Keterangan
 -----|-----|-----|-----
 Employee |[Employee.csv](./employee.csv)|[Info_Emp](./emp.PNG) , Attrition = keluar|Ini merupakan data karyawan keluar pada suatu perusahaan
-WHO |[WHO.csv](./WHO.csv)|[Info_WHO](./life.PNG)|Ini merupakan data Angka Harapan hidup negara berdasarkan data WHO
-Resignation |[resignation.csv](./resignation.csv)||Ini merupakan data karyawan keluar perusahaan berbeda dg lebih banyak feature
-E-Commerce |[ecommerce.csv](./ecommerce.csv)|Original price = harga sebelum diskon|Ini merupakan data penjualan dari suatu E-commerce
+Sephora |[Sephora.csv](./sephora.csv)|[Info_WHO](./Sephora.PNG)|Ini adalah data dari ecommerce Sephora
+Supermarket |[Supermarket.csv](./Supermarket.csv)|[Info_Supermarket](./Supermarket.PNG)|Ini merupakan data penjualan dari suatu Supermarket
 Seluler | [seluler.csv](./seluler.csv) | Churn = pindah | Ini merupakan data pelanggan operator seluler yg pindah provider dan tidak
 Bank | [bank.csv](./bank.csv) | 1 = yes, 0 = no | Ini merupakan data nasabah bank yg pindah bank dan tidak
 
-__Detail Poin Penilaian Sebagai Berikut (Sertakan Alasan ataupun Tujuan disetiap langkah yang anda lakukan, jangan hanya coding tanpa alasan atau penjelasan) Fokus pada *Problem Solving*:__
+__Sertakan Alasan ataupun Tujuan disetiap langkah yang anda lakukan, jangan hanya coding tanpa alasan atau penjelasan Fokus pada *Problem Solving*, Detail Poin Penilaian Sebagai Berikut :__
 
 
 - Definisikan Masalah terkait bisnis yang ingin anda selesaikan (Define Business Problem) - __5 point__
-- Definisikan Tujuan EDA anda (Define Goals) - __5 point__
+- Definisikan Tujuan EDA anda (Define Goals), Goals harus memiliki **Impact** untuk perusahaan - __5 point__
 - Analisa Deskriptif & Handling Missing Value serta Outliers - __10 point__
 - Analisis Data (Univariate dan Multivariate, Gunakan `Crosstab` atau `Pivot_Table` atau `Group by` ) - __20 point__
 - Visualisasi Data (Univariate dan Multivariate, Gunakan plot sesuai dengan fungsi dan tujuannya) - __20 Point__
 - Temukan Insight data berdasarkan Analisis dan Visualisasi yang telah anda lakukan - __5 point__
-- Kesimpulan dan Saran yang dapat anda berikan berdasarkan hasil EDA anda - __5 point__
+- Kesimpulan dan Saran serta simulasi **Impact** untuk perusahaan yang dapat anda berikan berdasarkan hasil EDA anda - __5 point__
 
 <hr>
 
@@ -250,7 +249,7 @@ __untuk mendukung setiap hipotesa anda, Silakan Lakukan Riset dari bermacam sumb
 
 
 
-✅ Commit dan Push jawaban anda ke Repository Github anda, beri nama repo anda __Exploratory-Data-Analysis-(Dataset yang anda pilih)__ kemudian kirim __Link repo github__ anda  via email ke _khumaeni@purwadhika.com_ untuk student BSD kirim email juga ke _operational@purwadhika.com_ dan untuk student jakarta kirim juga email ke _operational_jkt@purwadhika.com_
+✅ Commit dan Push jawaban anda ke Repository Github anda, beri nama repo anda __Exploratory-Data-Analysis-(Dataset yang anda pilih)__ kemudian kirim __Link repo github__ anda  via email ke _khumaeni@purwadhika.com_ dan ke _operational_jkt@purwadhika.com_ Subject Email : **Exam_Modul2_JCDS12_Nama**
     
 <hr>
 
