@@ -211,7 +211,7 @@ MySQL secara default menyertakan database ```world``` yang dapat digunakan oleh 
     +--------------------+-----------------+------------+-------------------+------------------+
     ```
 
-    ✅ Lampirkan jawaban berupa daftar __query SQL & Screenshoot hasil query__ dalam bentuk file __.docx atau .pdf__ dan kirimkan via email ke _khumaeni@purwadhika.com_ dan ke _operational_jkt@purwadhika.com_ Subject Email : **Exam_Modul2_JCDS12_Nama**
+ 
     
     <hr>
 
@@ -251,7 +251,7 @@ __Untuk mendukung setiap hipotesa anda, Silakan Lakukan Riset dari bermacam sumb
 ** Note : Alternatif Untuk download dataset bisa dengan membuka file sesuai link, klik **raw** dan copas ke text editor kemudian save as **.csv**
 
 
-✅ Commit dan Push jawaban anda ke Repository Github anda, beri nama repo anda __Exploratory-Data-Analysis-(Dataset yang anda pilih)__ kemudian kirim __Link repo github__ anda  via email ke _khumaeni@purwadhika.com_ dan ke _operational_jkt@purwadhika.com_ Subject Email : **Exam_Modul2_JCDS12_Nama**
+
     
 <hr>
 
